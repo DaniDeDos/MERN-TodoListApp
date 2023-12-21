@@ -1,6 +1,6 @@
-# Todo List App
+# Todo List React App
 
-Esta es una aplicación de lista de tareas construida con React. Permite al usuario crear, editar y eliminar tareas.
+![img](./src/img/TodoList-React.png)
 
 ## Características
 
@@ -31,4 +31,3 @@ npm start
 ```
 
 La aplicación se abrirá en tu navegador y podrás comenzar a usarla.
-
